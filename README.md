@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding not cuz I love, but for my surival to die peacefully one day
 - 🌱 I’m currently learning AI and ML
 - 💞️ I’m looking to collaborate on any AI and ML modules
-- 📫 you can reach me on chshanu97@gmail.com or info@ghumastic.com
+- 📫 you can reach me on chshanu97@gmail.com
 
 <!---
 Shanu-web/Shanu-web is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
