@@ -1,37 +1,73 @@
-# 👋 Hi, I’m Shanu Choudhary  
+# 👋 Hi, I’m **Shanu Choudhary**
 
-💡 **AI & Integration Engineer** with 7+ years of experience in building scalable APIs, enterprise integrations, and AI-powered systems across **finance, healthcare, and retail industries**.  
-
----
-
-## 👀 About Me
-- ⚡ I code not just out of passion but as a way to build, learn, and grow every day.  
-- 🌱 Currently diving deeper into **AI, ML, Generative AI, and LLMOps**.  
-- 💞️ Open to collaborating on **AI modules, automation pipelines, and enterprise-grade API solutions**.  
-- 📫 Reach me at **[chshanu97@gmail.com](mailto:chshanu97@gmail.com)**  
-- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/shanu-connect/)  
+### 🧠 AI Engineer • 🕸️ Integration Architect • ⚡ Builder of Agentic Systems  
+With 7+ years of experience designing **enterprise integrations**, **scalable APIs**, and **AI-driven automation**, I build systems that think, automate, and scale.
 
 ---
 
-## 🛠️ Tech Stack
-- **Languages**: Python, JavaScript, SQL  
-- **Frameworks**: FastAPI, LangChain, LangGraph, n8n  
-- **Integrations**: MuleSoft, Salesforce, SAP, Workday  
-- **Cloud & DevOps**: AWS, Azure, Terraform, Redis, Databricks  
-- **AI/ML**: OpenAI GPT, Hugging Face Transformers, Conversational AI  
+## 🚀 What I Do
+- 🧩 Architect **API & system integrations** across Workday, SAP, Salesforce, MuleSoft  
+- 🤖 Build **Agentic AI workflows** using GPT-4o, LangChain, LangGraph  
+- ⚙️ Create **automation pipelines** (FastAPI, Redis, n8n, serverless functions)  
+- 📊 Design & optimize **data platforms** with Databricks, Delta Lake, Azure  
+- 🧪 Prototype production-ready LLM apps, prompts, and intelligent agents  
 
 ---
 
-## 🚀 Side Projects
-- **[Ghumastic](#)** → AI-powered travel itinerary generator with map-based navigation  
-- **[PashuGPT](#)** → Multilingual livestock & dairy farming AI assistant (Pashushala.com)  
+## 🛠 Tech Stack
+
+**Languages**  
+Python · JavaScript · SQL
+
+**Frameworks / Tools**  
+FastAPI · LangChain · LangGraph · n8n · Flask  
+
+**Cloud & DevOps**  
+Azure · AWS · Docker · GitHub Actions · Terraform · Render  
+
+**Enterprise Integrations**  
+MuleSoft · SAP (IDoc/BAPI) · Workday RAAS/API · Salesforce  
+
+**AI/ML**  
+OpenAI GPT · Transformers · Embeddings · Vector Search · RAG · LLMOps  
 
 ---
 
-## 🌍 Fun Side
-- 🚴 I like to balance **code + creativity** with fitness, travel, and exploration.  
-- 💭 My philosophy: *“Keep building. Keep learning. Leave an impact.”*  
+## 🔥 Featured Projects
+
+### 🟣 **Amelytic**  
+An **Agentic Marketing OS** — automating brand content planning, creation, scheduling, and publishing across platforms.
+
+### 🧭 **Ghumastic**  
+AI-powered travel engine generating full itineraries, map paths, recommendations, and dynamic planning.
+
+### 🐄 **PashuGPT**  
+A multilingual livestock & dairy farming assistant powering Pashushala.com, helping farmers across India.
 
 ---
 
-✨ _Thanks for visiting my profile!_ 🚀  
+## 📬 Connect With Me  
+📧 **Email:** chshanu97@gmail.com  
+🔗 **LinkedIn:** [Shanu Choudhary](https://www.linkedin.com/in/shanu-connect/)
+
+---
+
+## ⚡ A Little About Me  
+- I build things that solve real-world problems  
+- Passionate about clean integrations, automation, and AI workflows  
+- “Ship fast. Learn fast. Iterate faster.”  
+- Outside tech: fitness, bikes, and travel 🌍  
+
+---
+
+## 📈 GitHub Stats
+
+![Shanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanu-web&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanu-web&layout=compact&theme=tokyonight)
+
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shanu-web&theme=tokyonight)
+
+---
+
+### ⭐ _“Keep building. Keep experimenting. Leave an impact.”_
