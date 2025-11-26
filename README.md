@@ -62,11 +62,13 @@ A multilingual livestock & dairy farming assistant powering Pashushala.com, help
 
 ## 📈 GitHub Stats
 
-![Shanu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shanu-web&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shanu-web&layout=compact&theme=tokyonight)
+![Shanu's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Shanu-web&cc=000&tc=fff&ic=fff&bg=0D1117)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shanu-web&theme=tokyonight)
+![Top Languages](https://github-stats-alpha.vercel.app/api/top-langs/?username=Shanu-web&layout=compact&cc=000&tc=fff&ic=fff&bg=0D1117)
+
+![Streak](https://streak-stats.demolab.com?user=Shanu-web&theme=tokyonight&hide_border=true)
+
 
 ---
 
