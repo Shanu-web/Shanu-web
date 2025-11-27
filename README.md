@@ -65,7 +65,8 @@ A multilingual livestock & dairy farming assistant powering Pashushala.com, help
 <!-- Main profile card -->
 ![Shanu's GitHub Stats](https://github-stats-alpha.vercel.app/api?username=Shanu-web&cc=000&tc=fff&ic=fff&bg=0D1117)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Shanu-web&theme=tokyonight&hide_border=true)
+![Shanu's Streak](https://streak-stats.demolab.com?user=Shanu-web&theme=tokyonight&hide_border=true)
+
 
 ---
 
