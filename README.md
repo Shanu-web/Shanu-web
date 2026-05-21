@@ -6,7 +6,7 @@
 
 ---
 
-### What I'm Building (independently)
+### What I'm Building
 
 🟣 **[Amelytic](https://amelytic.com)** — Autonomous AI marketing platform. Multi-agent orchestration via LangGraph + GPT-4o. Plans campaigns, generates content across 13+ channels, publishes on schedule.
 
@@ -32,6 +32,8 @@ Cloud         AWS · Azure · Terraform · Docker
 ### Recent Writing
 
 📝 [Why Baseline RAG Fails in Production — And What I Built Instead](https://medium.com/@chshanu97/why-baseline-rag-fails-in-production-and-what-i-built-instead-f8235c02ac57)
+
+📝 [RAG Is Not a Default. Here's When It Actually Earns Its Place.](https://medium.com/@chshanu97/rag-is-not-a-default-heres-when-it-actually-earns-its-place-d3ff7fafe4e8)
 
 ---
 
